@@ -1,0 +1,3871 @@
+{
+ "rates": {},
+ "varieties": [
+  {
+   "id": "v1",
+   "name": "CORNETTO CLASSIC MINI",
+   "pcsPerBox": 24,
+   "category": "icecream",
+   "cost": 2.16,
+   "empRate": 2.7,
+   "sellRate": 4.0
+  },
+  {
+   "id": "v2",
+   "name": "MINI CHOCH",
+   "pcsPerBox": 30,
+   "category": "icecream",
+   "cost": 0.53,
+   "empRate": 0.7,
+   "sellRate": 1.0
+  },
+  {
+   "id": "v3",
+   "name": "MAGNUM CLASSIC, ALMONT",
+   "pcsPerBox": 24,
+   "category": "icecream",
+   "cost": 4.02,
+   "empRate": 4.7,
+   "sellRate": 6.0
+  },
+  {
+   "id": "v4",
+   "name": "lychi/ black",
+   "pcsPerBox": 36,
+   "category": "icecream",
+   "cost": 0.6,
+   "empRate": 1.1,
+   "sellRate": 2.0
+  },
+  {
+   "id": "v5",
+   "name": "RAINBOW",
+   "pcsPerBox": 36,
+   "category": "icecream",
+   "cost": 0.8,
+   "empRate": 1.0,
+   "sellRate": 2.0
+  },
+  {
+   "id": "v6",
+   "name": "TORNADO",
+   "pcsPerBox": 36,
+   "category": "icecream",
+   "cost": 0.8,
+   "empRate": 1.0,
+   "sellRate": 2.0
+  },
+  {
+   "id": "v7",
+   "name": "Redbeen",
+   "pcsPerBox": 24,
+   "category": "icecream",
+   "cost": 0.77,
+   "empRate": 1.0,
+   "sellRate": 2.0
+  },
+  {
+   "id": "v8",
+   "name": "SOLIRO LIME",
+   "pcsPerBox": 30,
+   "category": "icecream",
+   "cost": 0.87,
+   "empRate": 1.2,
+   "sellRate": 2.0
+  },
+  {
+   "id": "v9",
+   "name": "CUP",
+   "pcsPerBox": 24,
+   "category": "icecream",
+   "cost": 1.55,
+   "empRate": 2.0,
+   "sellRate": 3.0
+  },
+  {
+   "id": "v10",
+   "name": "MELON",
+   "pcsPerBox": 1,
+   "category": "icecream",
+   "cost": 0,
+   "empRate": 0,
+   "sellRate": 0
+  },
+  {
+   "id": "v11",
+   "name": "TOPTEN",
+   "pcsPerBox": 25,
+   "category": "icecream",
+   "cost": 1.69,
+   "empRate": 2.2,
+   "sellRate": 3.0
+  },
+  {
+   "id": "v12",
+   "name": "CORNETTO ROY UNICORNETT",
+   "pcsPerBox": 20,
+   "category": "icecream",
+   "cost": 2.82,
+   "empRate": 3.5,
+   "sellRate": 5.0
+  },
+  {
+   "id": "v13",
+   "name": "CHOICE /WHITE/CUP MINI",
+   "pcsPerBox": 28,
+   "category": "icecream",
+   "cost": 0.62,
+   "empRate": 1.1,
+   "sellRate": 2.0
+  },
+  {
+   "id": "v14",
+   "name": "LIPTON CRUSH",
+   "pcsPerBox": 1,
+   "category": "icecream",
+   "cost": 0,
+   "empRate": 0,
+   "sellRate": 0
+  },
+  {
+   "id": "v15",
+   "name": "BUTTER FLY / APPLE",
+   "pcsPerBox": 40,
+   "category": "icecream",
+   "cost": 1.85,
+   "empRate": 2.2,
+   "sellRate": 3.0
+  },
+  {
+   "id": "v16",
+   "name": "SOLIRO MANGO",
+   "pcsPerBox": 1,
+   "category": "icecream",
+   "cost": 0,
+   "empRate": 0,
+   "sellRate": 0
+  },
+  {
+   "id": "v17",
+   "name": "Yokoo Org",
+   "pcsPerBox": 30,
+   "category": "icecream",
+   "cost": 0.77,
+   "empRate": 1.0,
+   "sellRate": 2.0
+  },
+  {
+   "id": "v18",
+   "name": "ASSAM",
+   "pcsPerBox": 30,
+   "category": "icecream",
+   "cost": 0.53,
+   "empRate": 1.0,
+   "sellRate": 3.5
+  },
+  {
+   "id": "v19",
+   "name": "TOPTEN EXTRA",
+   "pcsPerBox": 24,
+   "category": "icecream",
+   "cost": 2.19,
+   "empRate": 2.7,
+   "sellRate": 3.5
+  },
+  {
+   "id": "v20",
+   "name": "Time to stop",
+   "pcsPerBox": 33,
+   "category": "icecream",
+   "cost": 0.56,
+   "empRate": 1.1,
+   "sellRate": 2.0
+  },
+  {
+   "id": "v21",
+   "name": "PADDLE POP UPIN IPIN",
+   "pcsPerBox": 36,
+   "category": "icecream",
+   "cost": 1.1,
+   "empRate": 1.4,
+   "sellRate": 2.5
+  },
+  {
+   "id": "v22",
+   "name": "COOKIES & CREAM",
+   "pcsPerBox": 36,
+   "category": "icecream",
+   "cost": 1.49,
+   "empRate": 1.9,
+   "sellRate": 3.0
+  },
+  {
+   "id": "v23",
+   "name": "CFEE LATTE CHOC CHIP",
+   "pcsPerBox": 30,
+   "category": "icecream",
+   "cost": 2.12,
+   "empRate": 2.7,
+   "sellRate": 3.5
+  },
+  {
+   "id": "v24",
+   "name": "BITES VAN & CARA",
+   "pcsPerBox": 24,
+   "category": "icecream",
+   "cost": 2.68,
+   "empRate": 3.6,
+   "sellRate": 4.5
+  },
+  {
+   "id": "i1",
+   "name": "IDIYAPPAM",
+   "category": "idiyappam",
+   "pcsPerBox": 1,
+   "cost": 0.4,
+   "empRate": 0.4,
+   "sellRate": 1
+  },
+  {
+   "id": "i2",
+   "name": "PUTTU",
+   "category": "idiyappam",
+   "pcsPerBox": 1,
+   "cost": 1,
+   "empRate": 1,
+   "sellRate": 2
+  },
+  {
+   "id": "i3",
+   "name": "KOLKATTAI",
+   "category": "idiyappam",
+   "pcsPerBox": 1,
+   "cost": 0.4,
+   "empRate": 0.4,
+   "sellRate": 1
+  },
+  {
+   "id": "i4",
+   "name": "THENGAI 3",
+   "category": "idiyappam",
+   "pcsPerBox": 1,
+   "cost": 0,
+   "empRate": 1,
+   "sellRate": 0
+  },
+  {
+   "id": "i5",
+   "name": "THENGAI 2.5",
+   "category": "idiyappam",
+   "pcsPerBox": 1,
+   "cost": 0,
+   "empRate": 1,
+   "sellRate": 0
+  }
+ ],
+ "employees": [
+  {
+   "id": "e_raja",
+   "name": "Raja"
+  },
+  {
+   "id": "e_jafer",
+   "name": "Jafer"
+  }
+ ],
+ "bills": [
+  {
+   "id": "b_raja_1",
+   "date": "2026-09-01",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 4.02,
+     "empRate": 4.7,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 6.0,
+     "cost": 0.6,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v7",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.77,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v8",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.87,
+     "empRate": 1.2,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v12",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.82,
+     "empRate": 3.5,
+     "sellRate": 5.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 3.5
+    },
+    {
+     "varietyId": "v24",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 2.68,
+     "empRate": 3.6,
+     "sellRate": 4.5
+    }
+   ]
+  },
+  {
+   "id": "b_raja_2",
+   "date": "2026-09-02",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 4.02,
+     "empRate": 4.7,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.6,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v7",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.77,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v8",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.87,
+     "empRate": 1.2,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 8.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 3.5
+    },
+    {
+     "varietyId": "v20",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.56,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v24",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 2.68,
+     "empRate": 3.6,
+     "sellRate": 4.5
+    }
+   ]
+  },
+  {
+   "id": "b_raja_3",
+   "date": "2026-09-03",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.6,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v7",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 0.77,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 3.5
+    },
+    {
+     "varietyId": "v20",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.56,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    }
+   ]
+  },
+  {
+   "id": "b_raja_4",
+   "date": "2026-09-04",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 4.02,
+     "empRate": 4.7,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.6,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v7",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.77,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v17",
+     "category": "icecream",
+     "qty": 4.0,
+     "cost": 0.77,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 3.5
+    },
+    {
+     "varietyId": "v20",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.56,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    }
+   ]
+  },
+  {
+   "id": "b_raja_5",
+   "date": "2026-09-05",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v2",
+     "category": "icecream",
+     "qty": 30.0,
+     "cost": 0.53,
+     "empRate": 0.7,
+     "sellRate": 1.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 4.02,
+     "empRate": 4.7,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.6,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v7",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.77,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 3.5
+    }
+   ]
+  },
+  {
+   "id": "b_raja_6",
+   "date": "2026-09-06",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 25.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 4.02,
+     "empRate": 4.7,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.6,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v7",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.77,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 7.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 3.5
+    },
+    {
+     "varietyId": "v20",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.56,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v24",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 2.68,
+     "empRate": 3.6,
+     "sellRate": 4.5
+    }
+   ]
+  },
+  {
+   "id": "b_raja_7",
+   "date": "2026-09-07",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v7",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.77,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 3.5
+    }
+   ]
+  },
+  {
+   "id": "b_raja_8",
+   "date": "2026-09-08",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 4.02,
+     "empRate": 4.7,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 6.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 3.5
+    },
+    {
+     "varietyId": "v20",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.56,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    }
+   ]
+  },
+  {
+   "id": "b_raja_9",
+   "date": "2026-09-09",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v2",
+     "category": "icecream",
+     "qty": 30.0,
+     "cost": 0.53,
+     "empRate": 0.7,
+     "sellRate": 1.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 4.02,
+     "empRate": 4.7,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.6,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v7",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.77,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 3.5
+    }
+   ]
+  },
+  {
+   "id": "b_raja_10",
+   "date": "2026-09-10",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v20",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.56,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    }
+   ]
+  },
+  {
+   "id": "b_raja_11",
+   "date": "2026-09-11",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.6,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v7",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.77,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    }
+   ]
+  },
+  {
+   "id": "b_raja_12",
+   "date": "2026-09-12",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 4.02,
+     "empRate": 4.7,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.6,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v7",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.77,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 3.5
+    },
+    {
+     "varietyId": "v20",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.56,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    }
+   ]
+  },
+  {
+   "id": "b_raja_13",
+   "date": "2026-09-13",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 40.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 4.02,
+     "empRate": 4.7,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.6,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v7",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 0.77,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 35.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 3.5
+    },
+    {
+     "varietyId": "v20",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.56,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v24",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 2.68,
+     "empRate": 3.6,
+     "sellRate": 4.5
+    }
+   ]
+  },
+  {
+   "id": "b_raja_14",
+   "date": "2026-09-14",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.6,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 2.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 3.5
+    }
+   ]
+  },
+  {
+   "id": "b_raja_15",
+   "date": "2026-09-15",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v2",
+     "category": "icecream",
+     "qty": 30.0,
+     "cost": 0.53,
+     "empRate": 0.7,
+     "sellRate": 1.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 4.02,
+     "empRate": 4.7,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.6,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v7",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 0.77,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v24",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 2.68,
+     "empRate": 3.6,
+     "sellRate": 4.5
+    }
+   ]
+  },
+  {
+   "id": "b_raja_16",
+   "date": "2026-09-16",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 4.02,
+     "empRate": 4.7,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v7",
+     "category": "icecream",
+     "qty": 26.0,
+     "cost": 0.77,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 9.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 6.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 3.5
+    },
+    {
+     "varietyId": "v20",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.56,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    }
+   ]
+  },
+  {
+   "id": "b_raja_17",
+   "date": "2026-09-17",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v2",
+     "category": "icecream",
+     "qty": 30.0,
+     "cost": 0.53,
+     "empRate": 0.7,
+     "sellRate": 1.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 4.02,
+     "empRate": 4.7,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v8",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.87,
+     "empRate": 1.2,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v12",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.82,
+     "empRate": 3.5,
+     "sellRate": 5.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    }
+   ]
+  },
+  {
+   "id": "b_raja_18",
+   "date": "2026-09-18",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 4.02,
+     "empRate": 4.7,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 6.0,
+     "cost": 0.6,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v8",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 0.87,
+     "empRate": 1.2,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v12",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.82,
+     "empRate": 3.5,
+     "sellRate": 5.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 3.5
+    },
+    {
+     "varietyId": "v20",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.56,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v24",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 2.68,
+     "empRate": 3.6,
+     "sellRate": 4.5
+    }
+   ]
+  },
+  {
+   "id": "b_raja_19",
+   "date": "2026-09-19",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v2",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.53,
+     "empRate": 0.7,
+     "sellRate": 1.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 4.02,
+     "empRate": 4.7,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.6,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 6.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v7",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 0.77,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v8",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.87,
+     "empRate": 1.2,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v12",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 2.82,
+     "empRate": 3.5,
+     "sellRate": 5.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 3.5
+    },
+    {
+     "varietyId": "v20",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.56,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    }
+   ]
+  },
+  {
+   "id": "b_raja_20",
+   "date": "2026-09-20",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v2",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.53,
+     "empRate": 0.7,
+     "sellRate": 1.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.6,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v7",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.77,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v8",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.87,
+     "empRate": 1.2,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v20",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.56,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    }
+   ]
+  },
+  {
+   "id": "b_raja_21",
+   "date": "2026-09-21",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v2",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.53,
+     "empRate": 0.7,
+     "sellRate": 1.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.6,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v8",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 0.87,
+     "empRate": 1.2,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v20",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.56,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    }
+   ]
+  },
+  {
+   "id": "b_raja_22",
+   "date": "2026-09-22",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v2",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.53,
+     "empRate": 0.7,
+     "sellRate": 1.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v12",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 2.82,
+     "empRate": 3.5,
+     "sellRate": 5.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 3.5
+    }
+   ]
+  },
+  {
+   "id": "b_raja_23",
+   "date": "2026-09-23",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v2",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.53,
+     "empRate": 0.7,
+     "sellRate": 1.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 4.02,
+     "empRate": 4.7,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v8",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.87,
+     "empRate": 1.2,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v12",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.82,
+     "empRate": 3.5,
+     "sellRate": 5.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 3.5
+    },
+    {
+     "varietyId": "v24",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 2.68,
+     "empRate": 3.6,
+     "sellRate": 4.5
+    }
+   ]
+  },
+  {
+   "id": "b_raja_24",
+   "date": "2026-09-24",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v2",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.53,
+     "empRate": 0.7,
+     "sellRate": 1.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 4.02,
+     "empRate": 4.7,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.6,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v7",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 0.77,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v8",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.87,
+     "empRate": 1.2,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v12",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.82,
+     "empRate": 3.5,
+     "sellRate": 5.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 3.5
+    }
+   ]
+  },
+  {
+   "id": "b_raja_25",
+   "date": "2026-09-25",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v2",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 0.53,
+     "empRate": 0.7,
+     "sellRate": 1.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 3.0,
+     "cost": 0.6,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v8",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 0.87,
+     "empRate": 1.2,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v12",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 2.82,
+     "empRate": 3.5,
+     "sellRate": 5.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v20",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.56,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    }
+   ]
+  },
+  {
+   "id": "b_raja_26",
+   "date": "2026-09-26",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v7",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 0.77,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v12",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 2.82,
+     "empRate": 3.5,
+     "sellRate": 5.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 3.5
+    }
+   ]
+  },
+  {
+   "id": "b_raja_27",
+   "date": "2026-09-27",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 25.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v2",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.53,
+     "empRate": 0.7,
+     "sellRate": 1.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 4.02,
+     "empRate": 4.7,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.6,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v7",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.77,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v12",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.82,
+     "empRate": 3.5,
+     "sellRate": 5.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 3.5
+    },
+    {
+     "varietyId": "v20",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.56,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    }
+   ]
+  },
+  {
+   "id": "b_raja_28",
+   "date": "2026-09-28",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v2",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.53,
+     "empRate": 0.7,
+     "sellRate": 1.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 4.02,
+     "empRate": 4.7,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.6,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v7",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 0.77,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v8",
+     "category": "icecream",
+     "qty": 3.0,
+     "cost": 0.87,
+     "empRate": 1.2,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v12",
+     "category": "icecream",
+     "qty": 3.0,
+     "cost": 2.82,
+     "empRate": 3.5,
+     "sellRate": 5.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 3.5
+    }
+   ]
+  },
+  {
+   "id": "b_raja_29",
+   "date": "2026-09-29",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v2",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.53,
+     "empRate": 0.7,
+     "sellRate": 1.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 4.02,
+     "empRate": 4.7,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v7",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.77,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 3.5
+    }
+   ]
+  },
+  {
+   "id": "b_raja_30",
+   "date": "2026-09-30",
+   "employeeId": "e_raja",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.16,
+     "empRate": 2.7,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.8,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v13",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.62,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    }
+   ]
+  },
+  {
+   "id": "b_jafer_1",
+   "date": "2026-09-01",
+   "employeeId": "e_jafer",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 30.0,
+     "cost": 2.16,
+     "empRate": 2.8,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v2",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.53,
+     "empRate": 0.7,
+     "sellRate": 1.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 4.02,
+     "empRate": 4.8,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 0.6,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 36.0,
+     "cost": 0.8,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 36.0,
+     "cost": 0.8,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v8",
+     "category": "icecream",
+     "qty": 30.0,
+     "cost": 0.87,
+     "empRate": 1.2,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 25.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v12",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 2.82,
+     "empRate": 3.7,
+     "sellRate": 5.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v20",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 0.56,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v24",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 2.68,
+     "empRate": 3.7,
+     "sellRate": 4.5
+    }
+   ]
+  },
+  {
+   "id": "b_jafer_2",
+   "date": "2026-09-02",
+   "employeeId": "e_jafer",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 2.16,
+     "empRate": 2.8,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v2",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.53,
+     "empRate": 0.7,
+     "sellRate": 1.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 4.02,
+     "empRate": 4.8,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v12",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 2.82,
+     "empRate": 3.7,
+     "sellRate": 5.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v18",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.53,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    }
+   ]
+  },
+  {
+   "id": "b_jafer_3",
+   "date": "2026-09-03",
+   "employeeId": "e_jafer",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.16,
+     "empRate": 2.8,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v2",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.53,
+     "empRate": 0.7,
+     "sellRate": 1.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 4.02,
+     "empRate": 4.8,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 0.8,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v8",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.87,
+     "empRate": 1.2,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v24",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 2.68,
+     "empRate": 3.7,
+     "sellRate": 4.5
+    }
+   ]
+  },
+  {
+   "id": "b_jafer_4",
+   "date": "2026-09-04",
+   "employeeId": "e_jafer",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.16,
+     "empRate": 2.8,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 4.02,
+     "empRate": 4.8,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.6,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 0.8,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v8",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.87,
+     "empRate": 1.2,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v12",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.82,
+     "empRate": 3.7,
+     "sellRate": 5.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v20",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.56,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    }
+   ]
+  },
+  {
+   "id": "b_jafer_5",
+   "date": "2026-09-05",
+   "employeeId": "e_jafer",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.16,
+     "empRate": 2.8,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v2",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.53,
+     "empRate": 0.7,
+     "sellRate": 1.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 0.6,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v8",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.87,
+     "empRate": 1.2,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v12",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.82,
+     "empRate": 3.7,
+     "sellRate": 5.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    }
+   ]
+  },
+  {
+   "id": "b_jafer_25",
+   "date": "2026-09-25",
+   "employeeId": "e_jafer",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.16,
+     "empRate": 2.8,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 4.02,
+     "empRate": 4.8,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v8",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.87,
+     "empRate": 1.2,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v12",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.82,
+     "empRate": 3.7,
+     "sellRate": 5.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v24",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 2.68,
+     "empRate": 3.7,
+     "sellRate": 4.5
+    }
+   ]
+  },
+  {
+   "id": "b_jafer_26",
+   "date": "2026-09-26",
+   "employeeId": "e_jafer",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 2.16,
+     "empRate": 2.8,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v2",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.53,
+     "empRate": 0.7,
+     "sellRate": 1.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 4.02,
+     "empRate": 4.8,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 0.6,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v8",
+     "category": "icecream",
+     "qty": 20.0,
+     "cost": 0.87,
+     "empRate": 1.2,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v12",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 2.82,
+     "empRate": 3.7,
+     "sellRate": 5.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v20",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.56,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v24",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 2.68,
+     "empRate": 3.7,
+     "sellRate": 4.5
+    }
+   ]
+  },
+  {
+   "id": "b_jafer_27",
+   "date": "2026-09-27",
+   "employeeId": "e_jafer",
+   "items": [
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 4.02,
+     "empRate": 4.8,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v12",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 2.82,
+     "empRate": 3.7,
+     "sellRate": 5.0
+    },
+    {
+     "varietyId": "v24",
+     "category": "icecream",
+     "qty": 6.0,
+     "cost": 2.68,
+     "empRate": 3.7,
+     "sellRate": 4.5
+    }
+   ]
+  },
+  {
+   "id": "b_jafer_28",
+   "date": "2026-09-28",
+   "employeeId": "e_jafer",
+   "items": [
+    {
+     "varietyId": "v1",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 2.16,
+     "empRate": 2.8,
+     "sellRate": 4.0
+    },
+    {
+     "varietyId": "v2",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 0.53,
+     "empRate": 0.7,
+     "sellRate": 1.0
+    },
+    {
+     "varietyId": "v3",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 4.02,
+     "empRate": 4.8,
+     "sellRate": 6.0
+    },
+    {
+     "varietyId": "v4",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.6,
+     "empRate": 1.0,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v5",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v6",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 0.8,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v7",
+     "category": "icecream",
+     "qty": 15.0,
+     "cost": 0.77,
+     "empRate": 1.1,
+     "sellRate": 2.0
+    },
+    {
+     "varietyId": "v9",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.55,
+     "empRate": 2.0,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v11",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.69,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    },
+    {
+     "varietyId": "v12",
+     "category": "icecream",
+     "qty": 5.0,
+     "cost": 2.82,
+     "empRate": 3.7,
+     "sellRate": 5.0
+    },
+    {
+     "varietyId": "v15",
+     "category": "icecream",
+     "qty": 10.0,
+     "cost": 1.85,
+     "empRate": 2.2,
+     "sellRate": 3.0
+    }
+   ]
+  }
+ ],
+ "payments": [
+  {
+   "id": "p_raja_1",
+   "date": "2026-09-01",
+   "employeeId": "e_raja",
+   "amount": 305
+  },
+  {
+   "id": "p_raja_2",
+   "date": "2026-09-02",
+   "employeeId": "e_raja",
+   "amount": 320
+  },
+  {
+   "id": "p_raja_3",
+   "date": "2026-09-03",
+   "employeeId": "e_raja",
+   "amount": 260
+  },
+  {
+   "id": "p_raja_4",
+   "date": "2026-09-04",
+   "employeeId": "e_raja",
+   "amount": 320
+  },
+  {
+   "id": "p_raja_5",
+   "date": "2026-09-05",
+   "employeeId": "e_raja",
+   "amount": 335
+  },
+  {
+   "id": "p_raja_6",
+   "date": "2026-09-06",
+   "employeeId": "e_raja",
+   "amount": 300
+  },
+  {
+   "id": "p_raja_7",
+   "date": "2026-09-07",
+   "employeeId": "e_raja",
+   "amount": 210
+  },
+  {
+   "id": "p_raja_8",
+   "date": "2026-09-08",
+   "employeeId": "e_raja",
+   "amount": 220
+  },
+  {
+   "id": "p_raja_9",
+   "date": "2026-09-09",
+   "employeeId": "e_raja",
+   "amount": 240
+  },
+  {
+   "id": "p_raja_10",
+   "date": "2026-09-10",
+   "employeeId": "e_raja",
+   "amount": 150
+  },
+  {
+   "id": "p_raja_11",
+   "date": "2026-09-11",
+   "employeeId": "e_raja",
+   "amount": 170
+  },
+  {
+   "id": "p_raja_12",
+   "date": "2026-09-12",
+   "employeeId": "e_raja",
+   "amount": 430
+  },
+  {
+   "id": "p_raja_13",
+   "date": "2026-09-13",
+   "employeeId": "e_raja",
+   "amount": 500
+  },
+  {
+   "id": "p_raja_14",
+   "date": "2026-09-14",
+   "employeeId": "e_raja",
+   "amount": 270
+  },
+  {
+   "id": "p_raja_15",
+   "date": "2026-09-15",
+   "employeeId": "e_raja",
+   "amount": 175
+  },
+  {
+   "id": "p_raja_16",
+   "date": "2026-09-16",
+   "employeeId": "e_raja",
+   "amount": 295
+  },
+  {
+   "id": "p_raja_17",
+   "date": "2026-09-17",
+   "employeeId": "e_raja",
+   "amount": 190
+  },
+  {
+   "id": "p_raja_18",
+   "date": "2026-09-18",
+   "employeeId": "e_raja",
+   "amount": 240
+  },
+  {
+   "id": "p_raja_19",
+   "date": "2026-09-19",
+   "employeeId": "e_raja",
+   "amount": 410
+  },
+  {
+   "id": "p_raja_20",
+   "date": "2026-09-20",
+   "employeeId": "e_raja",
+   "amount": 190
+  },
+  {
+   "id": "p_raja_21",
+   "date": "2026-09-21",
+   "employeeId": "e_raja",
+   "amount": 300
+  },
+  {
+   "id": "p_raja_22",
+   "date": "2026-09-22",
+   "employeeId": "e_raja",
+   "amount": 123
+  },
+  {
+   "id": "p_raja_23",
+   "date": "2026-09-23",
+   "employeeId": "e_raja",
+   "amount": 150
+  },
+  {
+   "id": "p_raja_24",
+   "date": "2026-09-24",
+   "employeeId": "e_raja",
+   "amount": 200
+  },
+  {
+   "id": "p_raja_25",
+   "date": "2026-09-25",
+   "employeeId": "e_raja",
+   "amount": 200
+  },
+  {
+   "id": "p_raja_26",
+   "date": "2026-09-26",
+   "employeeId": "e_raja",
+   "amount": 180
+  },
+  {
+   "id": "p_raja_27",
+   "date": "2026-09-27",
+   "employeeId": "e_raja",
+   "amount": 450
+  },
+  {
+   "id": "p_raja_28",
+   "date": "2026-09-28",
+   "employeeId": "e_raja",
+   "amount": 225
+  },
+  {
+   "id": "p_raja_29",
+   "date": "2026-09-29",
+   "employeeId": "e_raja",
+   "amount": 200
+  },
+  {
+   "id": "p_raja_30",
+   "date": "2026-09-30",
+   "employeeId": "e_raja",
+   "amount": 110
+  },
+  {
+   "id": "p_jafer_1",
+   "date": "2026-09-01",
+   "employeeId": "e_jafer",
+   "amount": 130
+  },
+  {
+   "id": "p_jafer_2",
+   "date": "2026-09-02",
+   "employeeId": "e_jafer",
+   "amount": 150
+  },
+  {
+   "id": "p_jafer_3",
+   "date": "2026-09-03",
+   "employeeId": "e_jafer",
+   "amount": 110
+  },
+  {
+   "id": "p_jafer_4",
+   "date": "2026-09-04",
+   "employeeId": "e_jafer",
+   "amount": 300
+  },
+  {
+   "id": "p_jafer_5",
+   "date": "2026-09-05",
+   "employeeId": "e_jafer",
+   "amount": 170
+  },
+  {
+   "id": "p_jafer_25",
+   "date": "2026-09-25",
+   "employeeId": "e_jafer",
+   "amount": 200
+  },
+  {
+   "id": "p_jafer_26",
+   "date": "2026-09-26",
+   "employeeId": "e_jafer",
+   "amount": 200
+  },
+  {
+   "id": "p_jafer_27",
+   "date": "2026-09-27",
+   "employeeId": "e_jafer",
+   "amount": 500
+  },
+  {
+   "id": "p_jafer_28",
+   "date": "2026-09-28",
+   "employeeId": "e_jafer",
+   "amount": 100
+  },
+  {
+   "id": "p_jafer_29",
+   "date": "2026-09-29",
+   "employeeId": "e_jafer",
+   "amount": 100
+  },
+  {
+   "id": "p_jafer_30",
+   "date": "2026-09-30",
+   "employeeId": "e_jafer",
+   "amount": 50
+  }
+ ]
+}
